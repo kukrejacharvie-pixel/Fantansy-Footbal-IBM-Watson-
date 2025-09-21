@@ -1,10 +1,9 @@
 # Fantasy Football Player Impact Prediction
 
-## ACM40960 — Project in Mathematical Modelling
+## Project in Mathematical Modelling
 
 ### *Predicting player impact with tree‑based models, neural networks and ensembling*
 
-**Authors**: Shyam Pratap Singh Rathore (24222167), Charvie Kukreja (24202861) 
 **Date**: August 2025
 
 ---
